@@ -15,7 +15,7 @@
     "font-awesome": "^4.7.0",
     "history": "^4.9.0",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "noty": "^3.2.0-beta",
     "react": "^16.8.6",
     "react-bootstrap-table-next": "^3.1.2",
